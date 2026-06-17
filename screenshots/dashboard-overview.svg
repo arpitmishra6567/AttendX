@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0f172a"/>
+  <rect x="40" y="40" width="1200" height="640" rx="20" fill="#1e293b"/>
+  <text x="80" y="120" fill="#e2e8f0" font-size="44" font-family="Arial, sans-serif">AttendX Dashboard Overview</text>
+  <text x="80" y="190" fill="#94a3b8" font-size="30" font-family="Arial, sans-serif">Placeholder screenshot for recruiter-facing README.</text>
+</svg>
