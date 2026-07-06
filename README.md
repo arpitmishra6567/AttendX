@@ -2,6 +2,8 @@
 
 > A full-stack attendance intelligence platform focused on automation, analytics, and recruiter-ready engineering quality.
 
+🌐 **[View Live Demo](https://attend-x-black.vercel.app)**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/arpitmishra6567/AttendX?style=social)](https://github.com/arpitmishra6567/AttendX/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/arpitmishra6567/AttendX)](https://github.com/arpitmishra6567/AttendX/commits)
@@ -10,7 +12,7 @@
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-3c873a)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791)
 
-🔗 **Quick Links**: [Live Demo](#-live-demo) • [Documentation](./docs/ARCHITECTURE.md) • [Getting Started](#-getting-started)
+🔗 **Quick Links**: [Live Demo](https://attend-x-black.vercel.app) • [Documentation](./docs/ARCHITECTURE.md) • [Getting Started](#-getting-started)
 
 ---
 
@@ -147,7 +149,7 @@ cd ../backend && npm run start
 
 ## 🌐 Live Demo
 
-Live deployment is currently being prepared. Add production URL here once deployed.
+🚀 Try AttendX live: **[https://attend-x-black.vercel.app](https://attend-x-black.vercel.app)**
 
 ---
 
